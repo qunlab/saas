@@ -81,6 +81,7 @@ Step3 is done
 ```
 ### All Arguments
 ```
+python process.py -h
 usage: process.py [-h] [-ann ANN] [-type TYPE] [-exp EXP] [-female FEMALE]
                   [-male MALE] [-AS AS] [-info INFO] [-out OUT]
 
