@@ -1,7 +1,7 @@
 # SAAS---Sex-associated Alternative Splicing
 ## Preparing
 **you can process your data with this script, here we provide a demo for users**<br>
-**Notes: you can download this script and run it in your computer(need to download gtf/gff files[example: Mus_musculus](http://ftp.ensembl.org/pub/release-97/gtf/mus_musculus/Mus_musculus.GRCm38.97.gtf.gz))**
+**Notes: you can download this script and run it in your computer(need to download gtf/gff files. [Mus_musculus](http://ftp.ensembl.org/pub/release-97/gtf/mus_musculus/Mus_musculus.GRCm38.97.gtf.gz))**
 1. [python 3.7](https://www.python.org/)
 2. [R 3.6.0](https://cran.r-project.org/mirrors.html)
 3. you got your RNA-seq analysis data.--- [example](https://github.com/leequn/saas/tree/master/exp_kidney)
