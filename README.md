@@ -22,9 +22,15 @@
   + SRR945382.csv
   + SRR945383.csv
   + SRR945384.csv
-  + ....csv
-src
-info_kidney.txt
-kidney_female.txt
-kidney_male.txt
-process.py
+  + ......
+* src
+  + step1.py
+  + step2.R
+  + step1.py
+  + step1.R
+* info_kidney.txt
+* kidney_female.txt
+* kidney_male.txt
+* [Mus_musculus.GRCm38.97.gtf](http://ftp.ensembl.org/pub/release-97/gtf/mus_musculus/Mus_musculus.GRCm38.97.gtf.gz)
+* process.py
+* README
