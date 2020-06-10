@@ -49,11 +49,11 @@ demo/
 ### Run SAAS Script
 #### Windows
 ```
-python .\process.py -ann .\Mus_musculus.GRCm38.97.gtf -type gtf -exp .\exp_kidney\ -female .\kidney_female.tx t -male .\kidney_male.txt -AS .\as_kidney\ -info .\info_kidney.txt -out out
+python .\process.py -ann .\Mus_musculus.GRCm38.97.gtf -type gtf -exp .\exp_kidney\ -female .\kidney_female.tx t -male .\kidney_male.txt -AS .\as_kidney\ -info .\info_kidney.txt -out kidney_saas.csv
 ```
 #### Centos
 ```
-python process.py -ann Mus_musculus.GRCm38.97.gtf -type gtf -exp exp_kidney/ -female kidney_female.txt -male kidney_male.txt -AS as_kidney/ -info info_kidney.txt  -out out
+python process.py -ann Mus_musculus.GRCm38.97.gtf -type gtf -exp exp_kidney/ -female kidney_female.txt -male kidney_male.txt -AS as_kidney/ -info info_kidney.txt  -out kidney_saas.csv
 ```
 #### Success
 ![success](https://github.com/leequn/saas/blob/master/script.png)
@@ -74,7 +74,7 @@ optional arguments:
   -out OUT        out of process
 ```
 ## Output
-What we need is **final_exp.csv**
+What we need is **kidney_saas.csv**
 ```
 out/
 ├── as
@@ -89,6 +89,7 @@ out/
 │   ├── symbol_id_exp.csv
 │   └── symbol.txt
 ├── final_exp.csv
+├── kidney_saas.csv
 └── out
 ```
 
