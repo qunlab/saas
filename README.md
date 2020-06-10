@@ -44,4 +44,4 @@ python .\process.py -ann .\Mus_musculus.GRCm38.97.gtf -type gtf -exp .\exp_kidne
 python process.py -ann Mus_musculus.GRCm38.97.gtf -type gtf -exp exp_kidney/ -female kidney_female.txt -male kidney_male.txt -AS as_kidney/ -info info_kidney.txt  -out out
 ```
 #### Success
-
+![success](https://github.com/leequn/saas/blob/master/script.png)
