@@ -11,7 +11,7 @@
 7. .gtf/.gff  [example: Mus_musculus](http://ftp.ensembl.org/pub/release-97/gtf/mus_musculus/Mus_musculus.GRCm38.97.gtf.gz)
 ## Usage
 ### example
-**files dir**
+**Files dir**
 * as_kidney
   + A3SS.MATS.txt
   + A5SS.MATS.txt
@@ -34,3 +34,6 @@
 * [Mus_musculus.GRCm38.97.gtf](http://ftp.ensembl.org/pub/release-97/gtf/mus_musculus/Mus_musculus.GRCm38.97.gtf.gz)
 * process.py
 * README
+<br>
+** Run SAAS**
+
