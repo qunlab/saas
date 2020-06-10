@@ -13,11 +13,11 @@
 ### example
 **files dir**
 * as_kidney
-  + [A3SS.MATS.txt]
-  + [A5SS.MATS.txt]
-  + [MXE.MATS.txt]
-  + [RI.MATS.txt]
-  + [SE.MATS.txt]
+  + A3SS.MATS.txt
+  + A5SS.MATS.txt
+  + MXE.MATS.txt
+  + RI.MATS.txt
+  + SE.MATS.txt
 exp_kidney
 src
 info_kidney.txt
