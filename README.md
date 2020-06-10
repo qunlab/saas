@@ -62,6 +62,7 @@ optional arguments:
   -out OUT        out of process
 ```
 ## Output
+What we need is **final_exp.csv**
 ```
 out/
 ├── as
