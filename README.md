@@ -114,6 +114,5 @@ out/
 │   └── symbol.txt
 ├── final_exp.csv
 ├── kidney_saas.csv
-└── out
 ```
 
