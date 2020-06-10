@@ -1,0 +1,16 @@
+ArgumentParsers
+-ann    *** ensembl(gtf) or NCBI(gff)
+-type   *** gtf/gff
+-exp    *** expression file dir
+-female *** female samples(FPKM.SRR_NUM). Example:  FPKM.SRR5412147
+-male   *** male samples
+-AS     *** AS file from rMATS
+-info   *** remarks of sample
+	example：
+		type	info
+		Remark	NA
+		Organism	Anolis_carolinensis
+		tissue	brain
+		GEO_accession	GSE97367
+
+-out    *** out of process
