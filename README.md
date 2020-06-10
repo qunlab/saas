@@ -34,4 +34,7 @@
 * [Mus_musculus.GRCm38.97.gtf](http://ftp.ensembl.org/pub/release-97/gtf/mus_musculus/Mus_musculus.GRCm38.97.gtf.gz)
 * process.py
 * README<br><br>
-**Files dir**
+### Run SAAS script
+```
+python .\process.py -ann .\Mus_musculus.GRCm38.97.gtf -type gtf -exp .\exp_kidney\ -female .\kidney_female.tx t -male .\kidney_male.txt -AS .\as_kidney\ -info .\info_kidney.txt -out out
+```
