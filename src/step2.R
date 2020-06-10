@@ -10,6 +10,8 @@ path1 <- gsub(" ","",path1)
 n <- length(filenames)
 a <- read.csv(path1)
 # loop
+print('process first exp')
+print('merge files')
 for (i in 2:n){
 	path <- paste(args[1],filenames[i],sep="")
 	path <- gsub(" ","",path)
