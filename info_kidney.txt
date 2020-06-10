@@ -1,0 +1,5 @@
+type	info
+Remark	NA
+Organism	Homo_sapiens
+tissue	kidney
+GEO_accession	GSE49379
