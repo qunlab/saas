@@ -62,4 +62,20 @@ optional arguments:
   -out OUT        out of process
 ```
 ## Output
+```
+out/
+├── as
+│   ├── A3SS.MATS.txt
+│   ├── A5SS.MATS.txt
+│   ├── MXE.MATS.txt
+│   ├── RI.MATS.txt
+│   └── SE.MATS.txt
+├── as.txt
+├── exp
+│   ├── merge.csv
+│   ├── symbol_id_exp.csv
+│   └── symbol.txt
+├── final_exp.csv
+└── out
+```
 
