@@ -18,7 +18,11 @@
   + MXE.MATS.txt
   + RI.MATS.txt
   + SE.MATS.txt
-exp_kidney
+* exp_kidney
+  + SRR945382.csv
+  + SRR945383.csv
+  + SRR945384.csv
+  + ....csv
 src
 info_kidney.txt
 kidney_female.txt
