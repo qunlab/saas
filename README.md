@@ -56,7 +56,29 @@ python .\process.py -ann .\Mus_musculus.GRCm38.97.gtf -type gtf -exp .\exp_kidne
 python process.py -ann Mus_musculus.GRCm38.97.gtf -type gtf -exp exp_kidney/ -female kidney_female.txt -male kidney_male.txt -AS as_kidney/ -info info_kidney.txt  -out kidney_saas.csv
 ```
 #### Success
-![success](https://github.com/leequn/saas/blob/master/script.png)
+```
+Loading anntation file...
+File type:gtf 
+Please waite
+Step1 is done
+[1] "process first exp"
+[1] "merge files"
+[1] "exp_kidney/SRR945383.csv"
+[1] "exp_kidney/SRR945384.csv"
+[1] "exp_kidney/SRR945385.csv"
+[1] "exp_kidney/SRR945386.csv"
+[1] "exp_kidney/SRR945387.csv"
+[1] "exp_kidney/SRR945388.csv"
+[1] "exp_kidney/SRR945389.csv"
+[1] "exp_kidney/SRR945390.csv"
+[1] "exp_kidney/SRR945391.csv"
+[1] "exp_kidney/SRR945392.csv"
+[1] "exp_kidney/SRR945393.csv"
+[1] "Step2 is done"
+Loading alternative splicing site files as_kidney/
+Step3 is done
+[1] "Step4 is done"
+```
 ### All Arguments
 ```
 usage: process.py [-h] [-ann ANN] [-type TYPE] [-exp EXP] [-female FEMALE]
