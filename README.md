@@ -45,3 +45,19 @@ python process.py -ann Mus_musculus.GRCm38.97.gtf -type gtf -exp exp_kidney/ -fe
 ```
 #### Success
 ![success](https://github.com/leequn/saas/blob/master/script.png)
+### All Arguments
+```
+usage: process.py [-h] [-ann ANN] [-type TYPE] [-exp EXP] [-female FEMALE]
+                  [-male MALE] [-AS AS] [-info INFO] [-out OUT]
+
+optional arguments:
+  -h, --help      show this help message and exit
+  -ann ANN        gtf or gff file from ensembl or NCBI
+  -type TYPE      'gtf' or 'gff'
+  -exp EXP        exp file dir
+  -female FEMALE  female sample
+  -male MALE      male sample
+  -AS AS          AS file from rMATS
+  -info INFO      remarks of sample
+  -out OUT        out of process
+```
