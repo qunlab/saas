@@ -12,28 +12,40 @@
 ## Usage
 ### Example
 **Files dir**
-* as_kidney
-  + A3SS.MATS.txt
-  + A5SS.MATS.txt
-  + MXE.MATS.txt
-  + RI.MATS.txt
-  + SE.MATS.txt
-* exp_kidney
-  + SRR945382.csv
-  + SRR945383.csv
-  + SRR945384.csv
-  + ......
-* src
-  + step1.py
-  + step2.R
-  + step1.py
-  + step1.R
-* info_kidney.txt
-* kidney_female.txt
-* kidney_male.txt
-* [Mus_musculus.GRCm38.97.gtf](http://ftp.ensembl.org/pub/release-97/gtf/mus_musculus/Mus_musculus.GRCm38.97.gtf.gz)
-* process.py
-* README<br><br>
+```
+demo/
+├── as_kidney
+│   ├── A3SS.MATS.txt
+│   ├── A5SS.MATS.txt
+│   ├── MXE.MATS.txt
+│   ├── RI.MATS.txt
+│   └── SE.MATS.txt
+├── exp_kidney
+│   ├── SRR945382.csv
+│   ├── SRR945383.csv
+│   ├── SRR945384.csv
+│   ├── SRR945385.csv
+│   ├── SRR945386.csv
+│   ├── SRR945387.csv
+│   ├── SRR945388.csv
+│   ├── SRR945389.csv
+│   ├── SRR945390.csv
+│   ├── SRR945391.csv
+│   ├── SRR945392.csv
+│   └── SRR945393.csv
+├── info_kidney.txt
+├── kidney_female.txt
+├── kidney_male.txt
+├── Mus_musculus.GRCm38.97.gtf
+├── process.py
+├── README
+└── src
+    ├── step1.py
+    ├── step2.R
+    ├── step3.py
+    └── step4.R
+
+```
 ### Run SAAS Script
 #### Windows
 ```
