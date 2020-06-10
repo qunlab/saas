@@ -97,7 +97,8 @@ optional arguments:
   -out OUT        out of process
 ```
 ## Output
-What we need is **kidney_saas.csv**
+What we need is **kidney_saas.csv**<br>
+You can sent **kidney_saas.csv** on the [submission webpage](http://saas.nwsuaflmz.com/submission.php) or [email](leequn@nwsuaf.edu.cn).
 ```
 out/
 ├── as
