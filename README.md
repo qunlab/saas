@@ -36,6 +36,6 @@
 * README<br><br>
 ### Run SAAS script
 **Windows**
-```python
+```
 python .\process.py -ann .\Mus_musculus.GRCm38.97.gtf -type gtf -exp .\exp_kidney\ -female .\kidney_female.tx t -male .\kidney_male.txt -AS .\as_kidney\ -info .\info_kidney.txt -out out
 ```
