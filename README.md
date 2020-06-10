@@ -98,7 +98,7 @@ optional arguments:
 ```
 ## Output
 What we need is **kidney_saas.csv**<br>
-You can sent us **kidney_saas.csv** on the [submission webpage](http://saas.nwsuaflmz.com/submission.php) or [email](leequn@nwsuaf.edu.cn).
+You can sent us **kidney_saas.csv** on the [submission webpage](http://saas.nwsuaflmz.com/submission.php) or [email](liaomingzhi83@163.com).
 ```
 out/
 ├── as
