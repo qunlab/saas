@@ -33,6 +33,5 @@
 * kidney_male.txt
 * [Mus_musculus.GRCm38.97.gtf](http://ftp.ensembl.org/pub/release-97/gtf/mus_musculus/Mus_musculus.GRCm38.97.gtf.gz)
 * process.py
-* README
-<br>
+* README<br>
 **Files dir**
