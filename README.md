@@ -10,7 +10,7 @@
 6. sample information(i.e. development age, tissues).---[example](https://github.com/leequn/saas/blob/master/info_kidney.txt)
 7. .gtf/.gff  [example: Mus_musculus](http://ftp.ensembl.org/pub/release-97/gtf/mus_musculus/Mus_musculus.GRCm38.97.gtf.gz)
 ## Usage
-### example
+### Example
 **Files dir**
 * as_kidney
   + A3SS.MATS.txt
@@ -34,7 +34,7 @@
 * [Mus_musculus.GRCm38.97.gtf](http://ftp.ensembl.org/pub/release-97/gtf/mus_musculus/Mus_musculus.GRCm38.97.gtf.gz)
 * process.py
 * README<br><br>
-### Run SAAS script
+### Run SAAS Script
 #### Windows
 ```
 python .\process.py -ann .\Mus_musculus.GRCm38.97.gtf -type gtf -exp .\exp_kidney\ -female .\kidney_female.tx t -male .\kidney_male.txt -AS .\as_kidney\ -info .\info_kidney.txt -out out
@@ -61,3 +61,5 @@ optional arguments:
   -info INFO      remarks of sample
   -out OUT        out of process
 ```
+## Output
+
